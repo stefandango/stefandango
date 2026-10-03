@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://stefandango.dev">stefandango.dev</a> ·
-  <a href="https://www.linkedin.com/in/stefandango/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/stefandango/">LinkedIn</a>
 </p>
 
 ---
